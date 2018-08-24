@@ -3580,6 +3580,12 @@ input, select, textarea {
 			z-index: 1;
 		}
 
+		#banner img {
+		    max-width: 100%;
+		    height: auto;
+		    width: auto\9;
+		}
+
 			#banner h2:before, #banner h2:after {
 				-moz-transition: width 0.85s ease;
 				-webkit-transition: width 0.85s ease;
